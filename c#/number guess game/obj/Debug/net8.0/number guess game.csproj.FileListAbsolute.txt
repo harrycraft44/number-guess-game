@@ -1,0 +1,14 @@
+D:\htsandyoutube\hts\code\number guess game\c#\build\number guess game.exe
+D:\htsandyoutube\hts\code\number guess game\c#\build\number guess game.deps.json
+D:\htsandyoutube\hts\code\number guess game\c#\build\number guess game.runtimeconfig.json
+D:\htsandyoutube\hts\code\number guess game\c#\build\number guess game.dll
+D:\htsandyoutube\hts\code\number guess game\c#\build\number guess game.pdb
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\number guess game.GeneratedMSBuildEditorConfig.editorconfig
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\number guess game.AssemblyInfoInputs.cache
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\number guess game.AssemblyInfo.cs
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\number guess game.csproj.CoreCompileInputs.cache
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\number guess game.dll
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\refint\number guess game.dll
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\number guess game.pdb
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\number guess game.genruntimeconfig.cache
+D:\htsandyoutube\hts\code\number guess game\c#\number guess game\obj\Debug\net8.0\ref\number guess game.dll
