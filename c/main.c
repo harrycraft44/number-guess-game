@@ -26,7 +26,7 @@ int main(){
             printf("Wrong!! too low!! \n");
             attempts--;
         }else if (guessnumber == r){
-            printf("well done you go the number");
+            printf("well done you got the number");
             whileloop = false;
         }
         if(attempts == 0){
